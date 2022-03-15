@@ -1,0 +1,14 @@
+.App {
+  padding: 30px;
+  display: flex;
+}
+
+.AppButton{
+  border: 1px solid red;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.App > div {
+  margin-right: 50px;
+}
